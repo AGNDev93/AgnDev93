@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hello 👋! My name is Alejandro García and I'm a Software Engineer from Colombia</h2>
+<h3> Emphasis on cutting-edge technology to create value and make a difference!! </h3>
 
 ###
 
