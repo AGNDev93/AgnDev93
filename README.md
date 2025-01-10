@@ -27,9 +27,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" height="30" alt="Bootstrap logo"  />
+  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" class="img-fluid" alt="Bootstrap logo" height="30" />
   <img width="12" />
-  <img height="30" alt="Flask logo"><i class="fa-solid fa-flask"></i></img>
+  <img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" class="img-fluid" alt="Flask logo" height="30" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-logo.svg" class="img-fluid" alt="Git logo" height="30" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" class="img-fluid" alt="GitHub logo" height="30" />
   <img width="12" />
 </div>
 
