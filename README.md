@@ -35,6 +35,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" className="img-fluid" alt="GitHub logo" height="30" />
   <img width="12" />
+  <img src="https://cdn-icons-png.freepik.com/512/12523/12523470.png" className="img-fluid" alt="GitHub logo" height="30" /> 
+  <img width="12" />
 </div>
 
 ###
