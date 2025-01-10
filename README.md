@@ -15,17 +15,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" className="img-fluid" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" className="img-fluid" height="30" alt="Javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" className="img-fluid"  height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" className="img-fluid"  height="30" alt="Typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" className="img-fluid" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" className="img-fluid" height="30" alt="React logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" className="img-fluid" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" className="img-fluid" height="30" alt="Html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" className="img-fluid"  height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" className="img-fluid"  height="30" alt="Css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" className= "img-fluid" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" className= "img-fluid" height="30" alt="Python logo"  />
   <img width="12" />
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" className="img-fluid" alt="Bootstrap logo" height="30" />
   <img width="12" />
@@ -35,7 +35,11 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" className="img-fluid" alt="GitHub logo" height="30" />
   <img width="12" />
-  <img src="https://cdn-icons-png.freepik.com/512/12523/12523470.png" className="img-fluid" alt="GitHub logo" height="30" /> 
+  <img src="https://cdn-icons-png.freepik.com/512/12523/12523470.png" className="img-fluid" alt="SQL logo" height="30" /> 
+  <img width="12" />
+  <img src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" className="img-fluid" alt="Rest API´s logo" height="30" /> 
+  <img width="12" />
+  <img src="https://static.cdnlogo.com/logos/j/58/jest.svg" className="img-fluid" alt="Rest API´s logo" height="30" /> 
   <img width="12" />
 </div>
 
