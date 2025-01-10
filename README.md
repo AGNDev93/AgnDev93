@@ -28,7 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" height="30" alt="Bootstrap logo"  />
-  <img height="30" alt="Bootstrap logo"><i class="fa-solid fa-flask"></i></img>
+  <img width="12" />
+  <img height="30" alt="Flask logo"><i class="fa-solid fa-flask"></i></img>
+  <img width="12" />
 </div>
 
 ###
