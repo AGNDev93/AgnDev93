@@ -41,6 +41,8 @@
   <img width="12" />
   <img src="https://static.cdnlogo.com/logos/j/58/jest.svg" className="img-fluid" alt="Rest API´s logo" height="30" /> 
   <img width="12" />
+  <img src="https://static.cdnlogo.com/logos/f/92/figma.svg" className="img-fluid" alt="Rest API´s logo" height="30" /> 
+  <img width="12" />
 </div>
 
 ###
