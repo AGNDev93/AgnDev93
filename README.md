@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://iconscout.com/es/lottie-animation/desarrollador-interno-trabajando-en-computadora-6103068"  />
+<img align="right" height="150" src="https://media.istockphoto.com/id/1470350238/es/vector/desarrollador-de-software-que-trabaja-con-ordenadores.jpg?s=612x612&w=0&k=20&c=2W-Jrc5_y9zfeACclgo9OAMnyHvOOVWGzsfd94tOJc0=" />
 
 ###
 
