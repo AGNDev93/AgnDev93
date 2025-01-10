@@ -59,8 +59,9 @@
 ###
 
 <br clear="both">
+<div class="d-flex justify-content-center">
+  <img height="150" src="https://media.istockphoto.com/id/1470350238/es/vector/desarrollador-de-software-que-trabaja-con-ordenadores.jpg?s=612x612&w=0&k=20&c=2W-Jrc5_y9zfeACclgo9OAMnyHvOOVWGzsfd94tOJc0=" alt="Desarrollador de software" />
+</div>
 
-<!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
-<img className="d-flex justify-content-center" align="right" height="150" src="https://media.istockphoto.com/id/1470350238/es/vector/desarrollador-de-software-que-trabaja-con-ordenadores.jpg?s=612x612&w=0&k=20&c=2W-Jrc5_y9zfeACclgo9OAMnyHvOOVWGzsfd94tOJc0="/>
 
 ###
