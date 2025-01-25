@@ -13,37 +13,23 @@
 <!-- <img align="right" height="150" src="https://media.istockphoto.com/id/1470350238/es/vector/desarrollador-de-software-que-trabaja-con-ordenadores.jpg?s=612x612&w=0&k=20&c=2W-Jrc5_y9zfeACclgo9OAMnyHvOOVWGzsfd94tOJc0=" /> -->
 
 ###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" className="img-fluid" height="30" alt="Javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" className="img-fluid"  height="30" alt="Typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" className="img-fluid" height="30" alt="React logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" className="img-fluid" height="30" alt="Html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" className="img-fluid"  height="30" alt="Css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" className= "img-fluid" height="30" alt="Python logo"  />
-  <img width="12" />
-  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" className="img-fluid" alt="Bootstrap logo" height="30" />
-  <img width="12" />
-  <img src="https://static.cdnlogo.com/logos/f/80/flask.svg" className="img-fluid" alt="Flask logo" height="30" />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" className="img-fluid" alt="Git logo" height="30" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" className="img-fluid" alt="GitHub logo" height="30" />
-  <img width="12" />
-  <img src="https://cdn-icons-png.freepik.com/512/12523/12523470.png" className="img-fluid" alt="SQL logo" height="30" /> 
-  <img width="12" />
-  <img src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" className="img-fluid" alt="Rest API´s logo" height="30" /> 
-  <img width="12" />
-  <img src="https://static.cdnlogo.com/logos/j/58/jest.svg" className="img-fluid" alt="Rest API´s logo" height="30" /> 
-  <img width="12" />
-  <img src="https://static.cdnlogo.com/logos/f/92/figma.svg" className="img-fluid" alt="Rest API´s logo" height="30" /> 
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="img-fluid" height="30" alt="Javascript logo" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" class="img-fluid"  height="30" alt="Typescript logo" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" class="img-fluid" height="30" alt="React logo" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" class="img-fluid" height="30" alt="Html5 logo" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" class="img-fluid"  height="30" alt="Css3 logo" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" class="img-fluid" height="30" alt="Python logo" style="margin-right: 12px;" />
+  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" class="img-fluid" alt="Bootstrap logo" height="30" style="margin-right: 12px;" />
+  <img src="https://static.cdnlogo.com/logos/f/80/flask.svg" class="img-fluid" alt="Flask logo" height="30" style="margin-right: 12px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" class="img-fluid" alt="Git logo" height="30" style="margin-right: 12px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" class="img-fluid" alt="GitHub logo" height="30" style="margin-right: 12px;" />
+  <img src="https://cdn-icons-png.freepik.com/512/12523/12523470.png" class="img-fluid" alt="SQL logo" height="30" style="margin-right: 12px;" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*CiVW0IQDeLIYO8uXrd-8dw.png" class="img-fluid" alt="Rest API´s logo" height="30" style="margin-right: 12px;" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" class="img-fluid" alt="Jest logo" height="30" style="margin-right: 12px;" />
+  <img src="https://logowik.com/content/uploads/images/figma.jpg" class="img-fluid" alt="Figma logo" height="30" />
 </div>
+
 
 ###
 
