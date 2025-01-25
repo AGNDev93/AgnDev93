@@ -4,8 +4,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AGNDev93&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AGNDev93&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -59,7 +59,7 @@
 ###
 
 <br clear="both">
-<div class="d-flex justify-content-center">
+<div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "100vh" }}>
   <img height="150" src="https://media.istockphoto.com/id/1470350238/es/vector/desarrollador-de-software-que-trabaja-con-ordenadores.jpg?s=612x612&w=0&k=20&c=2W-Jrc5_y9zfeACclgo9OAMnyHvOOVWGzsfd94tOJc0=" alt="Desarrollador de software" />
 </div>
 
