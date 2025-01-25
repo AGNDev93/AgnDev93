@@ -45,7 +45,7 @@
 ###
 
 <br clear="both">
-<div style={{ display: "flex", justifyContent: "center", alignItems: "center", height: "100vh" }}>
+<div style="display: flex; justify-content: center; align-items: center;">
   <img height="150" src="https://media.istockphoto.com/id/1470350238/es/vector/desarrollador-de-software-que-trabaja-con-ordenadores.jpg?s=612x612&w=0&k=20&c=2W-Jrc5_y9zfeACclgo9OAMnyHvOOVWGzsfd94tOJc0=" alt="Desarrollador de software" />
 </div>
 
